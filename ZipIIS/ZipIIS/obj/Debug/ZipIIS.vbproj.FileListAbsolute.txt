@@ -1,0 +1,22 @@
+C:\Users\kee.wai.tan\AppData\Local\Temporary Projects\ZipIIS\bin\Debug\ZipIIS.exe.config
+C:\Users\kee.wai.tan\AppData\Local\Temporary Projects\ZipIIS\bin\Debug\ZipIIS.exe
+C:\Users\kee.wai.tan\AppData\Local\Temporary Projects\ZipIIS\bin\Debug\ZipIIS.pdb
+C:\Users\kee.wai.tan\AppData\Local\Temporary Projects\ZipIIS\bin\Debug\ZipIIS.xml
+C:\Users\kee.wai.tan\AppData\Local\Temporary Projects\ZipIIS\obj\Debug\ZipIIS.Form1.resources
+C:\Users\kee.wai.tan\AppData\Local\Temporary Projects\ZipIIS\obj\Debug\ZipIIS.Resources.resources
+C:\Users\kee.wai.tan\AppData\Local\Temporary Projects\ZipIIS\obj\Debug\ZipIIS.vbproj.GenerateResource.Cache
+C:\Users\kee.wai.tan\AppData\Local\Temporary Projects\ZipIIS\obj\Debug\ZipIIS.exe
+C:\Users\kee.wai.tan\AppData\Local\Temporary Projects\ZipIIS\obj\Debug\ZipIIS.xml
+C:\Users\kee.wai.tan\AppData\Local\Temporary Projects\ZipIIS\obj\Debug\ZipIIS.pdb
+C:\Users\kee.wai.tan\AppData\Local\Temporary Projects\ZipIIS\obj\Debug\ZipIIS.vbprojResolveAssemblyReference.cache
+C:\Users\kee.wai.tan\AppData\Local\Temporary Projects\ZipIIS\bin\Debug\ICSharpCode.SharpZipLib.dll
+D:\Projects\IISZIP\ZipIIS\ZipIIS\bin\Debug\ZipIIS.exe.config
+D:\Projects\IISZIP\ZipIIS\ZipIIS\obj\Debug\ZipIIS.exe
+D:\Projects\IISZIP\ZipIIS\ZipIIS\obj\Debug\ZipIIS.xml
+D:\Projects\IISZIP\ZipIIS\ZipIIS\obj\Debug\ZipIIS.pdb
+D:\Projects\IISZIP\ZipIIS\ZipIIS\bin\Debug\ZipIIS.exe
+D:\Projects\IISZIP\ZipIIS\ZipIIS\bin\Debug\ZipIIS.pdb
+D:\Projects\IISZIP\ZipIIS\ZipIIS\bin\Debug\ZipIIS.xml
+D:\Projects\IISZIP\ZipIIS\ZipIIS\obj\Debug\ZipIIS.ZipIIS.resources
+D:\Projects\IISZIP\ZipIIS\ZipIIS\obj\Debug\ZipIIS.Resources.resources
+D:\Projects\IISZIP\ZipIIS\ZipIIS\obj\Debug\ZipIIS.vbproj.GenerateResource.Cache
